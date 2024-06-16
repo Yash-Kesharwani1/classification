@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+dill
+flask
+scikit-learn
+category_encoders
+-e.
